@@ -1,0 +1,25 @@
+/*applying styles*/
+h2{
+    background-color: rgb(72, 172, 218);
+   /* border-style: dashed;
+    border-color: turquoise;
+    border-width: 10px;*/
+    border:red double 10px;
+    padding-left: 60px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    scroll-padding-right: 60px;
+    margin-left: 60px;
+
+
+}
+
+body {
+    /*
+    background-image: url(./images/image.background.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100vh; */
+    background: rgb(79, 179, 236) url(./images/image.background.jpg) center no-repeat;
+}

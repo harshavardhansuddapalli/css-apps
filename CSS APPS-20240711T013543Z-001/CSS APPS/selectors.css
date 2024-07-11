@@ -1,0 +1,37 @@
+/*
+applying styles
+*/
+
+/* element selectors */
+h2{
+    color: red;
+}
+
+/* grouping selectors */
+h2,h3,p{
+    color: red;
+}
+
+/*id selector*/
+#first {
+    color: blue;
+}
+/*class selector*/
+
+.second{
+    color: crimson;
+}
+
+/*universal selector */
+*{
+    text-align: center;
+}
+
+div{
+    border:2px solid darkslategray;
+}
+/*descendent selectors*/
+div p{
+    color: darkviolet;
+
+}
